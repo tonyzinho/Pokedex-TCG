@@ -30,3 +30,17 @@ function updateUI(){
 }
 
 updateUI()
+
+document
+
+.getElementById(
+    "dailyBtn"
+)
+
+.addEventListener(
+
+    "click",
+
+    claimDailyReward
+
+)
